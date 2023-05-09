@@ -1,8 +1,15 @@
-# p1_UFCG
-Nesse git você vai encontrar a maioria das atividades de p1 ufcg, essas atividades "resolvidas", devem ser usadas com sabedoria no seu aprendizado, como AUXILO para cadeira, não como depêndencia.
+Bem-vindo ao meu repositório no GitHub!
 
-Há mais atividades mais estou com preguiça de atualizar :), e teria que criar outro repositorio.
+Neste espaço, você encontrará uma grande parte das atividades resolvidas da disciplina de Programação 1 da UFCG. No entanto, é importante lembrar que essas atividades devem ser utilizadas com sabedoria, como um auxílio para a sua aprendizagem, e não como uma dependência.
 
-Qualquer duvida me procurem...
+Entendo que aprender programação pode ser um desafio, e por isso decidi compartilhar as minhas soluções com vocês. Meu objetivo é ajudar a comunidade de programadores a aprender e aprimorar suas habilidades.
 
-lucasant_tiago
+Além das atividades já presentes neste repositório, tenho outras que ainda não foram atualizadas. Peço desculpas pela falta de atualização, mas prometo que assim que possível vou incluir novas atividades.
+
+Por fim, quero deixar claro que estou à disposição para ajudar e responder a quaisquer dúvidas que possam surgir em relação às soluções apresentadas neste repositório. Espero que estas atividades sejam úteis para você e que possam contribuir para o seu aprendizado.
+
+Obrigado por visitar o meu repositório no GitHub e bons estudos!
+
+Atenciosamente,
+
+lucasan_tiago
